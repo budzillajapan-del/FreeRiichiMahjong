@@ -34,7 +34,7 @@ Yes. MahjongmacOS is free and contains **no ads**, **no paywalls**, and
 **no Pro version**. The full game is the only version. The optional tip
 tiers in the Support menu are entirely voluntary and unlock nothing — the
 app behaves identically whether you tip or not. See the
-[privacy policy](https://github.com/budzillajapan-del/mahjongmacos/blob/main/privacy.md) for full details.
+[privacy policy](https://budzillajapan-del.github.io/mahjongmacos/privacy) for full details.
 
 ### How do I sign in to Game Center?
 
@@ -135,7 +135,7 @@ me know.
 
 ## Privacy
 
-See the [privacy policy](privacy.md). Short version: the app collects no
+See the [privacy policy](https://budzillajapan-del.github.io/mahjongmacos/privacy). Short version: the app collects no
 data, runs no analytics, has no trackers, and ships no ads.
 
 ## Acknowledgements
@@ -143,7 +143,7 @@ data, runs no analytics, has no trackers, and ships no ads.
 The tile artwork is from the
 [FluffyStuff/riichi-mahjong-tiles](https://github.com/FluffyStuff/riichi-mahjong-tiles)
 project under CC0 1.0 Universal. Full credits are in the app's repository
-[CREDITS.md](https://github.com/budzillajapan-del/mahjongmacos/blob/main/CREDITS.md).
+[CREDITS.md](https://budzillajapan-del.github.io/mahjongmacos/CREDITS).
 
 ---
 
