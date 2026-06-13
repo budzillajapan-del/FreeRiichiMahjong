@@ -2,7 +2,7 @@
 
 ## Tile artwork
 
-The tile face SVGs in `MahjongmacOS/Assets.xcassets/Tiles/*` are from the
+The tile face SVGs in `FreeRiichiMahjong/Assets.xcassets/Tiles/*` are from the
 [FluffyStuff/riichi-mahjong-tiles](https://github.com/FluffyStuff/riichi-mahjong-tiles)
 project, released under **CC0 1.0 Universal (Public Domain Dedication)**.
 
