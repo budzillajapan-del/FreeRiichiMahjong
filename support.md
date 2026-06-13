@@ -4,7 +4,7 @@ title: Support
 permalink: /support/
 ---
 
-# MahjongmacOS Support
+# Free Riichi Mahjong Support
 
 Thanks for playing! This page covers how to reach the developer and answers
 to the most common questions.
@@ -30,11 +30,11 @@ When reporting a bug, the most useful things you can include are:
 
 ### Is the app really free?
 
-Yes. MahjongmacOS is free and contains **no ads**, **no paywalls**, and
+Yes. Free Riichi Mahjong is free and contains **no ads**, **no paywalls**, and
 **no Pro version**. The full game is the only version. The optional tip
 tiers in the Support menu are entirely voluntary and unlock nothing — the
 app behaves identically whether you tip or not. See the
-[privacy policy](https://budzillajapan-del.github.io/mahjongmacos/privacy) for full details.
+[privacy policy](https://budzillajapan-del.github.io/FreeRiichiMahjong/privacy) for full details.
 
 ### How do I sign in to Game Center?
 
@@ -61,12 +61,12 @@ sometimes works better with a fresh request.
 
 A few things to check:
 
-1. **Both Macs must be on the same Wi-Fi network** (not on different
+1. **Both systems must be on the same Wi-Fi network** (not on different
    networks at the same address, and not on the guest network on one
    and the main network on the other).
-2. **Both Macs must have granted local network permission** to MahjongmacOS
+2. **Both systems must have granted local network permission** to Free Riichi Mahjong
    the first time the app asked. To re-grant: **System Settings → Privacy
-   & Security → Local Network**, find MahjongmacOS, and enable it.
+   & Security → Local Network**, find Free Riichi Mahjong, and enable it.
 3. **Some routers block multicast (Bonjour) traffic**. If you're on a
    corporate or hotel network, this is often the cause. A home network
    usually works fine.
@@ -115,12 +115,12 @@ through Apple at <https://reportaproblem.apple.com>.
 ### How do I export or transfer my game?
 
 There's currently no save export. Your in-progress game lives in the app's
-local container on your Mac. If you upgrade to a new Mac, the easiest
+local container on your system. If you upgrade to a new system, the easiest
 path is to finish the current match before migrating.
 
 ### Where's the iPad / iPhone version?
 
-Not yet. MahjongmacOS is currently macOS-only. iOS / iPadOS support is
+Not yet. Free Riichi Mahjong is currently macOS-only. iOS / iPadOS support is
 something I'd love to add — it's a meaningful amount of work though, and
 will only happen if there's demand. If you'd like it, write in and let
 me know.
@@ -135,7 +135,7 @@ me know.
 
 ## Privacy
 
-See the [privacy policy](https://budzillajapan-del.github.io/mahjongmacos/privacy). Short version: the app collects no
+See the [privacy policy](https://budzillajapan-del.github.io/FreeRiichiMahjong/privacy). Short version: the app collects no
 data, runs no analytics, has no trackers, and ships no ads.
 
 ## Acknowledgements
@@ -147,4 +147,4 @@ project under CC0 1.0 Universal. Full credits are in the app's repository
 
 ---
 
-*MahjongmacOS · Copyright © 2026 Buddy Kinder. All rights reserved.*
+*Free Riichi Mahjong · Copyright © 2026 Buddy Kinder. All rights reserved.*
