@@ -4,14 +4,14 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# MahjongmacOS Privacy Policy
+# Free Riichi Mahjong Privacy Policy
 
 **Effective date:** June 10, 2026
 **Last updated:** June 10, 2026
 
 ## Summary
 
-MahjongmacOS is a free Japanese riichi mahjong game for macOS. It collects **no
+Free Riichi Mahjong is a free Japanese riichi mahjong game. It collects **no
 personal data**, has **no analytics**, runs **no trackers**, and contains
 **no advertising**. There is no user account to create. The full game is
 available offline.
@@ -21,7 +21,7 @@ and where to reach us if you have questions.
 
 ## 1. What we collect
 
-**Nothing.** MahjongmacOS does not collect, store, or transmit any personal
+**Nothing.** Free Riichi Mahjong does not collect, store, or transmit any personal
 information about you. We have no servers. We have no databases. We have no
 record of who installs the app, where, or how it's used.
 
@@ -56,24 +56,24 @@ month"); these reports never identify individual purchasers.
 
 ### Local game state
 
-Your in-progress game and points are stored locally on your Mac, inside the
+Your in-progress game and points are stored locally, inside the
 app's sandbox container. They are never transmitted off your device.
 
 ### Local network (LAN) multiplayer
 
-If you use the **Local Network** feature, MahjongmacOS announces itself on
+If you use the **Local Network** feature, Free Riichi Mahjong announces itself on
 your local Wi-Fi via Bonjour (`_mahjong-trainer._tcp`) so other people running
 the app on the same network can find your game. Game data is exchanged
-directly between Macs on your network — no servers are involved, and nothing
+directly between systems on your network — no servers are involved, and nothing
 is sent to us or to Apple.
 
-macOS will prompt you for permission the first time the app uses local network
+Your system will prompt you for permission the first time the app uses local network
 discovery. You can decline; LAN play will be unavailable, but every other
 feature still works.
 
 ## 4. Children's privacy
 
-MahjongmacOS is rated **4+** and is appropriate for users of all ages. We do
+Free Riichi Mahjong is rated **4+** and is appropriate for users of all ages. We do
 not knowingly collect any data from anyone, including children under 13. If
 you are a parent or guardian and have questions, please contact us at the
 email below.
@@ -110,4 +110,4 @@ For privacy questions or any other reason, you can reach the developer at:
 
 ---
 
-*MahjongmacOS · Copyright © 2026 Buddy Kinder. All rights reserved.*
+*Free Riichi Mahjong · Copyright © 2026 Buddy Kinder. All rights reserved.*
