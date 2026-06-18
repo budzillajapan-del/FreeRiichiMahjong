@@ -4,7 +4,7 @@ title: Support
 permalink: /support/
 ---
 
-# Free Riichi Mahjong Support
+# Riichi Mahjong Academy Support
 
 Thanks for playing! This page covers how to reach the developer and answers
 to the most common questions.
@@ -30,11 +30,11 @@ When reporting a bug, the most useful things you can include are:
 
 ### Is the app really free?
 
-Yes. Free Riichi Mahjong is free and contains **no ads**, **no paywalls**, and
+Yes. Riichi Mahjong Academy is free and contains **no ads**, **no paywalls**, and
 **no Pro version**. The full game is the only version. The optional tip
 tiers in the Support menu are entirely voluntary and unlock nothing — the
 app behaves identically whether you tip or not. See the
-[privacy policy](https://budzillajapan-del.github.io/FreeRiichiMahjong/privacy) for full details.
+[privacy policy](https://budzillajapan-del.github.io/RiichiMahjongAcademy/privacy) for full details.
 
 ### How do I sign in to Game Center?
 
@@ -120,7 +120,7 @@ path is to finish the current match before migrating.
 
 ### Where's the iPad / iPhone version?
 
-Not yet. Free Riichi Mahjong is currently macOS-only. iOS / iPadOS support is
+Not yet. Riichi Mahjong Academy is currently macOS-only. iOS / iPadOS support is
 something I'd love to add — it's a meaningful amount of work though, and
 will only happen if there's demand. If you'd like it, write in and let
 me know.
@@ -135,7 +135,7 @@ me know.
 
 ## Privacy
 
-See the [privacy policy](https://budzillajapan-del.github.io/FreeRiichiMahjong/privacy). Short version: the app collects no
+See the [privacy policy](https://budzillajapan-del.github.io/RiichiMahjongAcademy/privacy). Short version: the app collects no
 data, runs no analytics, has no trackers, and ships no ads.
 
 ## Acknowledgements
@@ -143,8 +143,8 @@ data, runs no analytics, has no trackers, and ships no ads.
 The tile artwork is from the
 [FluffyStuff/riichi-mahjong-tiles](https://github.com/FluffyStuff/riichi-mahjong-tiles)
 project under CC0 1.0 Universal. Full credits are in the app's repository
-[CREDITS.md](https://budzillajapan-del.github.io/mahjongmacos/CREDITS).
+[CREDITS.md](https://budzillajapan-del.github.io/RiichiMahjongAcademy/CREDITS).
 
 ---
 
-*Free Riichi Mahjong · Copyright © 2026 Buddy Kinder. All rights reserved.*
+*Riichi Mahjong Academy · Copyright © 2026 Buddy Kinder. All rights reserved.*
