@@ -11,7 +11,7 @@ permalink: /privacy/
 
 ## Summary
 
-Free Riichi Mahjong is a free Japanese riichi mahjong game. It collects **no
+Riichi Mahjong Academy is a free Japanese riichi mahjong game. It collects **no
 personal data**, has **no analytics**, runs **no trackers**, and contains
 **no advertising**. There is no user account to create. The full game is
 available offline.
@@ -21,7 +21,7 @@ and where to reach us if you have questions.
 
 ## 1. What we collect
 
-**Nothing.** Free Riichi Mahjong does not collect, store, or transmit any personal
+**Nothing.** Riichi Mahjong Academy does not collect, store, or transmit any personal
 information about you. We have no servers. We have no databases. We have no
 record of who installs the app, where, or how it's used.
 
@@ -61,7 +61,7 @@ app's sandbox container. They are never transmitted off your device.
 
 ### Local network (LAN) multiplayer
 
-If you use the **Local Network** feature, Free Riichi Mahjong announces itself on
+If you use the **Local Network** feature, Riichi Mahjong Academy announces itself on
 your local Wi-Fi via Bonjour (`_mahjong-trainer._tcp`) so other people running
 the app on the same network can find your game. Game data is exchanged
 directly between systems on your network — no servers are involved, and nothing
@@ -73,7 +73,7 @@ feature still works.
 
 ## 4. Children's privacy
 
-Free Riichi Mahjong is rated **4+** and is appropriate for users of all ages. We do
+Riichi Mahjong Academy is rated **4+** and is appropriate for users of all ages. We do
 not knowingly collect any data from anyone, including children under 13. If
 you are a parent or guardian and have questions, please contact us at the
 email below.
